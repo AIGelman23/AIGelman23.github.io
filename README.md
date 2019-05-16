@@ -1,2 +1,1 @@
-# leoclipse.github.io
-Information Technology Portfolio Website
+# AIGelman23.github.io
